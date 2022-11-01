@@ -41,7 +41,7 @@ class ExteriorInstance extends Scene {
         this.portal.setParent(this)
     }
     tweakerCaller() {
-        Dash_Tweaker(this.portal)
+        //Dash_Tweaker(this.portal)
     }
 
 }
