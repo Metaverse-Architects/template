@@ -10,7 +10,7 @@ class InteriorInstance extends Scene {
 
     constructor() {
         super(SceneLocations.Interior)
-        this.interior1Entity.addComponent(new GLTFShape('models/GF_interior_1.glb'))
+        this.interior1Entity.addComponent(new GLTFShape('models/HenneseyVenom.glb'))
         this.interior1Entity.setParent(this)
     }
 

@@ -22,12 +22,14 @@
     "yarn": "please use npm"
   },
   "dependencies": {
+    "@dcl/npc-scene-utils": "^1.4.0",
     "dcldash": "^0.0.33"
   },
   "bundledDependencies": [
     "dcldash"
   ],
   "bundleDependencies": [
+    "@dcl/npc-scene-utils",
     "dcldash"
   ]
 }
